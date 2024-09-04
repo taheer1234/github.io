@@ -22,9 +22,9 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=python,matlab,c,flutter,dart,firebase,github,git,)](https://skillicons.dev)
 
-![Ubaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=URALI002&show_icons=true&theme=dark)
+![Ubaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=taheer1234&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=URALI002&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taheer1234&theme=dark)
 
 
 <br>
